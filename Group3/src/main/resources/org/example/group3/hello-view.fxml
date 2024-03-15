@@ -30,6 +30,7 @@
    <ChoiceBox prefWidth="150.0" />
 
     <Label fx:id="welcomeText" />
+   <Button mnemonicParsing="false" text="Button" />
    <Label text="Label" />
     <Button onAction="#onHelloButtonClick" text="Hello!" />
 </VBox>
