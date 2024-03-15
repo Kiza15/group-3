@@ -1,31 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.geometry.*?>
-<?import javafx.scene.control.*?>
-<?import javafx.scene.layout.*?>
- main
-    <padding>
-        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
-    </padding>
-   <Accordion>
-     <panes>
-       <TitledPane animated="false" text="untitled 1">
-         <content>
-           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-         </content>
-       </TitledPane>
-       <TitledPane animated="false" text="untitled 2">
-         <content>
-           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-         </content>
-       </TitledPane>
-       <TitledPane animated="false" text="untitled 3">
-         <content>
-           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-         </content>
-       </TitledPane>
-     </panes>
-   </Accordion>
-   <ChoiceBox prefWidth="150.0" />
  main
 </VBox>
