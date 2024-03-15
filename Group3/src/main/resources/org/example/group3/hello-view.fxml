@@ -12,6 +12,7 @@
    <Label prefHeight="29.0" prefWidth="28.0" text="Label" />
    <Label text="Label" />
    <Label text="Label" />
+   <Label text="Label" />
 
     <Label fx:id="welcomeText" />
     <Button onAction="#onHelloButtonClick" text="Hello!" />
